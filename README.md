@@ -116,6 +116,7 @@ Mods by other people, in their own marketplaces. They're not maintained here, so
 | | Mod | What it does | Install |
 | --- | --- | --- | --- |
 | 🏷️ | **[last-prompt-title](https://github.com/zhangbububu/session-titles)** by [@zhangbububu](https://github.com/zhangbububu) | Session titles that follow your latest prompt: cut for the CLI, written by Haiku for the desktop sidebar | `claude plugin marketplace add zhangbububu/session-titles` then `claude plugin install last-prompt-title@session-titles` |
+| 🎛️ | **[subagent-tuner](https://github.com/Kruhlikau/subagent-tuner)** by [@Kruhlikau](https://github.com/Kruhlikau) | Picks the model and effort of every subagent: a Manual/Auto band, a pick pane, review → Opus and search → Haiku, and a saved default that overrides what the agent asked for | `claude plugin marketplace add Kruhlikau/subagent-tuner` then `claude plugin install subagent-tuner@subagent-tuner` |
 
 Built one? Open a PR that adds a row.
 
